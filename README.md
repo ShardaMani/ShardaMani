@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/sharda-mani">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:Sharda7011@gmail.com">
@@ -89,7 +89,7 @@ multi-agent LangGraph pipelines with full observability and evals baked in.
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 [Ticket Router](https://your-project-link.com)
+### 🎫 [Ticket Router](https://github.com/ShardaMani/ECO_AI)
 AI-powered support ticket router that classifies, resolves, and escalates
 customer tickets using a LangGraph state machine with RAG-grounded answers,
 confidence-based escalation, and full LangSmith observability.
@@ -99,7 +99,7 @@ confidence-based escalation, and full LangSmith observability.
 </td>
 <td width="50%" valign="top">
 
-### 🌱 [EcoResearch AI](https://your-project-link.com)
+### 🌱 [EcoResearch AI](https://github.com/ShardaMani/ECO_AI)
 Research workspace for sustainability analysts — multi-document semantic
 search and cross-document synthesis with a citation-grounded report
 pipeline traceable to document, page, and source-snippet level.
@@ -111,7 +111,7 @@ pipeline traceable to document, page, and source-snippet level.
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [AI Teaching Material Generator](https://your-project-link.com)
+### 📚 [AI Teaching Material Generator](https://github.com/ShardaMani/teacher-knowledge-engine)
 Converts raw textbook chapters, slides, and notes into classroom-ready
 teaching packages via a 10-stage LangGraph pipeline with parallel content
 generation and automated validation retries.
