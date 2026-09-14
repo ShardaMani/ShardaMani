@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20there,%20I'm%20Sharda%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Builder%20%7C%20Backend%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Sharda%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Builder&descAlignY=55&descSize=16" width="100%" style="max-width:900px;"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+production-ready+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+Knowledge+Graphs;FastAPI+%2B+React+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F;Turning+messy+data+into+smart+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Building+production-ready+AI+systems;LangChain+%7C+LangGraph+%7C+RAG;FastAPI+%2B+React+%2B+LLMs;Messy+data+in%2C+smart+products+out" alt="Typing SVG" style="max-width:90%;" width="500"/>
 </a>
 
 <br/>
@@ -44,7 +44,7 @@ multi-agent LangGraph pipelines with full observability and evals baked in.
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" style="max-width:100%;" />
 
 **AI / ML**
 <br/>
@@ -58,11 +58,11 @@ multi-agent LangGraph pipelines with full observability and evals baked in.
 
 **Frameworks & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,vue,react,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,vue,react,nodejs&theme=dark" style="max-width:100%;" />
 
 **Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" style="max-width:100%;" />
 <img src="https://img.shields.io/badge/EDA-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/Feature%20Engineering-4B8BBE?style=flat-square"/>
 
@@ -76,7 +76,7 @@ multi-agent LangGraph pipelines with full observability and evals baked in.
 
 **MLOps & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" style="max-width:100%;" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
 </div>
@@ -138,12 +138,16 @@ real institutional data.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShardaMani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2575fc&icon_color=6a11cb"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardaMani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2575fc"/>
+<img height="165" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=ShardaMani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2575fc&icon_color=6a11cb"/>
+<img height="165" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardaMani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2575fc"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShardaMani&theme=radical&hide_border=true&background=0D1117&ring=2575fc&fire=6a11cb"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShardaMani&theme=react-dark&hide_border=true&bg_color=0D1117&color=2575fc&line=6a11cb&point=ffffff"/>
+<img style="max-width:100%;" src="https://streak-stats.demolab.com/?user=ShardaMani&theme=radical&hide_border=true&background=0D1117&ring=2575fc&fire=6a11cb"/>
+
+<br/>
+
+<img style="max-width:100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=ShardaMani&theme=react-dark&hide_border=true&bg_color=0D1117&color=2575fc&line=6a11cb&point=ffffff"/>
 
 </div>
 
@@ -153,6 +157,6 @@ real institutional data.
 
 ### 💬 Let's build something intelligent together.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%" style="max-width:900px;"/>
 
 </div>
