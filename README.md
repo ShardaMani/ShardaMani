@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Sharda%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Builder&descAlignY=55&descSize=16" width="100%" style="max-width:900px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20there,%20I'm%20Sharda%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Builder%20%F0%9F%A4%96&descAlignY=55&descSize=16" width="100%" style="max-width:900px;"/>
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+smart+products;LangChain+%7C+LangGraph+%7C+RAG+pipelines;FastAPI+%2B+React+%2B+LLMs;Currently+debugging+a+prompt+at+2am+%F0%9F%8C%99" alt="Typing SVG" style="max-width:90%;" width="600"/>
+</a>
 
-<p>
-  <strong>AI/ML Engineer</strong> · LLMs · RAG · LangGraph · Knowledge Graphs
-</p>
-
-<p>
-  Building production-ready AI systems from messy data to smart products.
-</p>
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/sharda-mani">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,6 +17,10 @@
 <a href="https://github.com/ShardaMani">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShardaMani&label=Profile%20Views&color=6a11cb&style=flat" alt="profile views"/>
 
 </div>
 
@@ -36,11 +34,15 @@ based_in:    New Delhi, India
 focus:       LLM-powered applications · RAG pipelines · Knowledge Graphs · Scalable backends
 currently:   Project Associate @ Computer Center, IIT Madras
 looking_for: AI/ML Engineer roles building production-grade AI solutions
+fun_fact:    I've had more conversations with LangGraph state machines than with people this week
 ```
 
 I'm an AI/ML graduate who loves turning raw, messy data and unstructured documents into
 grounded, production-ready AI systems — from ontology-driven knowledge graphs to
 multi-agent LangGraph pipelines with full observability and evals baked in.
+
+If it involves wrangling PDFs, taming hallucinations, or making a chatbot actually
+*know* what it's talking about, I'm probably already three cups of chai deep into it. ☕
 
 <br/>
 
@@ -140,6 +142,15 @@ real institutional data.
 
 <br/>
 
+## ⚡ A Few Fun Facts
+
+- 🧩 I genuinely enjoy the moment a messy PDF finally parses cleanly
+- 🕸️ I've built more knowledge graphs than actual friendship bracelets
+- 🐛 My favorite debugging tool is staring blankly at the screen until the bug feels guilty
+- 🌙 Most of my best commits happen after 11 PM — no idea why, ask my LangGraph agents
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -161,7 +172,9 @@ real institutional data.
 
 <div align="center">
 
-### 💬 Let's build something intelligent together.
+### 💬 Got an interesting AI problem? Let's build something intelligent together.
+
+<sub>Bonus points if it involves a knowledge graph, a stubborn PDF, or a chatbot that finally stops hallucinating.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%" style="max-width:900px;"/>
 
