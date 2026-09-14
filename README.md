@@ -2,9 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Sharda%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Builder&descAlignY=55&descSize=16" width="100%" style="max-width:900px;"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Building+production-ready+AI+systems;LangChain+%7C+LangGraph+%7C+RAG;FastAPI+%2B+React+%2B+LLMs;Messy+data+in%2C+smart+products+out" alt="Typing SVG" style="max-width:90%;" width="500"/>
-</a>
+<br/>
+
+<p>
+  <strong>AI/ML Engineer</strong> · LLMs · RAG · LangGraph · Knowledge Graphs
+</p>
+
+<p>
+  Building production-ready AI systems from messy data to smart products.
+</p>
 
 <br/>
 
