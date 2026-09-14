@@ -12,6 +12,4 @@ I'm an AI/ML graduate who loves turning raw, messy data and unstructured documen
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShardaMani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ShardaMani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
