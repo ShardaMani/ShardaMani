@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20there,%20I'm%20Sharda%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Builder%20%F0%9F%A4%96&descAlignY=55&descSize=16" width="100%" style="max-width:900px;"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+smart+products;LangChain+%7C+LangGraph+%7C+RAG+pipelines;FastAPI+%2B+React+%2B+LLMs;Currently+debugging+a+prompt+at+2am+%F0%9F%8C%99" alt="Typing SVG" style="max-width:90%;" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+smart+products;LangChain+%7C+LangGraph+%7C+RAG+pipelines;FastAPI+%2B+React+%2B+LLMs;Currently+debugging+a+prompt+at+2am" alt="Typing SVG" style="max-width:90%;" width="600"/>
 </a>
 
 <br/><br/>
